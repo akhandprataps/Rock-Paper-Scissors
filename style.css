@@ -1,0 +1,22 @@
+.choicebtn{
+    line-height: 30px;
+    width: 150px;
+    border-radius: 5px;
+
+}
+
+#gamediv{
+    border: 5px solid black;
+    border-radius: 25px;
+    padding:10px;
+    background-color: lightgray;
+    text-align: center;
+}
+#player{
+    color: blue;
+
+}
+#computer{
+    color:red;
+    
+}
